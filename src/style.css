@@ -1,0 +1,10 @@
+/* src/style.css */
+
+/* 1. Tailwind’s base styles (resets) */
+@tailwind base;
+
+/* 2. Tailwind’s component classes (buttons, forms, etc.) */
+@tailwind components;
+
+/* 3. Tailwind’s utility classes (margin, padding, colors, etc.) */
+@tailwind utilities;
